@@ -16,6 +16,16 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Current Database: `ciecv31`
+--
+
+/*!40000 DROP DATABASE IF EXISTS `ciecv31`*/;
+
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `ciecv31` /*!40100 DEFAULT CHARACTER SET latin1 */;
+
+USE `ciecv31`;
+
+--
 -- Table structure for table `auth_group`
 --
 
@@ -1890,4 +1900,4 @@ DELIMITER ;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2018-08-26 20:35:43
+-- Dump completed on 2018-08-26 21:06:14
